@@ -93,3 +93,10 @@ BRIGHT_DATA_DEFAULT_WEB_SEARCH=true
 - 不需要在本地运行 ChatGPT
 - 本地程序只是把请求发给 Bright Data 的 ChatGPT Scraper
 - 真实返回结构通常包含 `answer_text`、`citations`、`search_sources`、`links_attached`、`recommendations` 等字段
+
+
+# 完整教程
+
+AI时代，小白也可以轻松合规获取大模型分析数据
+
+https://blog.csdn.net/JHXL_/article/details/160404554
