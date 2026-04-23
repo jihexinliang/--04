@@ -12,7 +12,7 @@ loadDotEnv(path.join(__dirname, ".env"));
 
 const config = {
   apiKey: process.env.BRIGHT_DATA_API_KEY || "",
-  datasetId: process.env.BRIGHT_DATA_DATASET_ID || "gd_m7aof0k82r803d5bjm",
+  datasetId: process.env.BRIGHT_DATA_DATASET_ID || "",
   defaultCountry: normalizeCountry(process.env.BRIGHT_DATA_DEFAULT_COUNTRY || "us"),
   defaultWebSearch: parseOptionalBoolean(process.env.BRIGHT_DATA_DEFAULT_WEB_SEARCH) ?? true,
   defaultRequireSources: parseOptionalBoolean(process.env.BRIGHT_DATA_REQUIRE_SOURCES)
