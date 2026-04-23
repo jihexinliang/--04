@@ -1,0 +1,69 @@
+[
+  {
+    "url": "https://chatgpt.com/",
+    "prompt": "帮我找出北京最值的推荐的咖啡连锁品牌",
+    "answer_text": "在北京的连锁咖啡推荐场景中，回答通常会综合品牌覆盖、价格带、门店体验和稳定性。较常出现的品牌包括星巴克、瑞幸咖啡和 Manner Coffee，不同品牌在空间体验、性价比和精品属性上各有侧重。",
+    "answer_html": "<p>在北京的连锁咖啡推荐场景中，回答通常会综合品牌覆盖、价格带、门店体验和稳定性。较常出现的品牌包括星巴克、瑞幸咖啡和 Manner Coffee，不同品牌在空间体验、性价比和精品属性上各有侧重。</p>",
+    "answer_text_markdown": "在北京的连锁咖啡推荐场景中，回答通常会综合品牌覆盖、价格带、门店体验和稳定性。较常出现的品牌包括 **星巴克**、**瑞幸咖啡** 和 **Manner Coffee**，不同品牌在空间体验、性价比和精品属性上各有侧重。",
+    "model": "gpt-4o",
+    "web_search_triggered": true,
+    "citations": [
+      {
+        "title": "星巴克中国官网",
+        "url": "https://www.starbucks.com.cn/",
+        "position": 1
+      },
+      {
+        "title": "瑞幸咖啡官网",
+        "url": "https://www.luckincoffee.com/",
+        "position": 2
+      },
+      {
+        "title": "Manner Coffee 官网",
+        "url": "https://mannercoffee.com/",
+        "position": 3
+      }
+    ],
+    "links_attached": [
+      {
+        "title": "星巴克中国",
+        "url": "https://www.starbucks.com.cn/"
+      },
+      {
+        "title": "瑞幸咖啡",
+        "url": "https://www.luckincoffee.com/"
+      },
+      {
+        "title": "Manner Coffee",
+        "url": "https://mannercoffee.com/"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "星巴克",
+        "summary": "门店网络广，空间体验稳定，适合商务与社交场景。"
+      },
+      {
+        "title": "瑞幸咖啡",
+        "summary": "数字化能力强，价格带更灵活，适合高频消费。"
+      },
+      {
+        "title": "Manner Coffee",
+        "summary": "更强调精品咖啡和性价比，适合城市白领用户。"
+      }
+    ],
+    "search_sources": [
+      {
+        "title": "星巴克中国官网",
+        "url": "https://www.starbucks.com.cn/"
+      },
+      {
+        "title": "瑞幸咖啡官网",
+        "url": "https://www.luckincoffee.com/"
+      }
+    ],
+    "references": [],
+    "prompt_sent_at": "2026-04-16T07:07:51.385Z",
+    "web_search": true
+  }
+]
